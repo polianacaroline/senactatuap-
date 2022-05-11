@@ -1,0 +1,11 @@
+testar tensoes eletricas da tomada(corrente alternada); obs fase +neutro=122.4, fase +terra=121.5, neutro+terra=0.3
+testar continuidade do cabo de força (teste diodo=0) ;obs fasec/fase=0.5, neutro c-neutro,0 terra c/terra0
+testar resistencia do cabo de força 9teste de 200ohms) obs fase c/fase0.4, neutro/cneutro0.3, terra c/terra0.5
+testar tensoes eletricas no cabo corrente alternada. obs. fase +neutro=121.2 fase+terra=122.2  terra+neutro=0.4
+testar fonte de alimentação com o testador de fonte obs; anotar os valores do testador.-12.1v  +12v2=121.1   5vsb=15.50  pg=330ms  +5v=5.0 +12v1=12.2 +3.3=3.3
+montar o circuito na protoboard (usar clips na fonte) obs;circuito 12v(cabo amrelo 12v = preto0v/cm/terra primeira trilha horizontal
+circuito5v cabo vermelho 5v+preto0com terra
+circuito de 7v cabo amarelo 12v+vermelho 5v terceira trilha
+montar circuito com 02 nmultimetros
+primeiro multimetro testar tensao eletrica (20v CC/DC) segundo multimetro testar corrente eletrica (10a)
+mudar o cabo do multimetro pra corrente eletrica.
