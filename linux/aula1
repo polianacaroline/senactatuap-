@@ -7,4 +7,27 @@ debian--> ubuntu-->mint
 baixando google chorme,navegador edge,opera, clicando duas vezes no arquivo
 gerenciador de aplicativos, instala no mint o ttf(fontes arial)
 vfse (nao pegar nada escrito snap, flathub, adicionar ppa, bash terminal)
+COMANDOS------------------------------aula 2
+ctrl+alt t= terminal
+sudo apt upgrade
+sudo apt update: atualiza
+id(identificação)
+sudo: root
+ctrl D:sair do root
+crtl+l apagar
+tab, tecla esquerda
+atualizar ou instalar:sudo apt update
+sudo apt full-upgrade: atualiza todos os software  
+sudo apt dist-upgrade: atualiza o sistema operacional(kernel)
+dist:comando
+limpeza do sistema: apt
+sudo apt autoremove:remoção de aplicativos desnecessario
+sudo apt autoclean: faz a limpeza do sistema
+sudo reboot: reeniciar
+instalar aplicativos-------------
+sudo apt install
+sudo apt install p7zip-full p7zip-rar guvcview cheese(
+sudo apt install kazam vlc kolourpaint notepadqq
+sudo init 0 (apaga)
+
 
