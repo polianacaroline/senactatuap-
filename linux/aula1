@@ -29,5 +29,10 @@ sudo apt install
 sudo apt install p7zip-full p7zip-rar guvcview cheese(
 sudo apt install kazam vlc kolourpaint notepadqq
 sudo init 0 (apaga)
+instalando novamente o linux, atualizando pelo terminal de comanandos
+--------------------------------------------------------------------------aula3----
+sudo apt install git vim python p7zip-full p7zip-rar
+
+
 
 
