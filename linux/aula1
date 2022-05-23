@@ -32,6 +32,18 @@ sudo init 0 (apaga)
 instalando novamente o linux, atualizando pelo terminal de comanandos
 --------------------------------------------------------------------------aula3----
 sudo apt install git vim python p7zip-full p7zip-rar
+ctrl k+o ( abre o gerador de arquivos no VSCODE)
+git clone, trabalhar no visual studio(clonar)
+crtl s(salva)
+comando git pull( clonar e atualizar  repositorio remoto)
+ctrl j(terminal)
+git config user.name (usuario de commit)
+git config --lis (confirmar o que vc escreveu, listar as configuraçoes)
+git config --global user.email (usuario de acesso)
+GIT ADD (ADICIONAR MUDANÇAS)
+GIT STATUS ( MOSTRA O QUE VC FEZ)
+GIT COMMIT -M "ATUALIZACAO" (COMITAR)
+GIT PUSH (PERMISSÃO)
 
 
 
