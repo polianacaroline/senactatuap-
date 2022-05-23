@@ -30,8 +30,9 @@ sudo apt install p7zip-full p7zip-rar guvcview cheese(
 sudo apt install kazam vlc kolourpaint notepadqq
 sudo init 0 (apaga)
 instalando novamente o linux, atualizando pelo terminal de comanandos
---------------------------------------------------------------------------aula3----
+--------------------------------------------------------------------------aula3---
 sudo apt install git vim python p7zip-full p7zip-rar
+--------------AULA 4-----------------------------------------
 ctrl k+o ( abre o gerador de arquivos no VSCODE)
 git clone, trabalhar no visual studio(clonar)
 crtl s(salva)
