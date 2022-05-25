@@ -1,0 +1,41 @@
+122  echo -p senac.txt
+  123  touch echo -p sena.txt
+  124  echo
+  125  ls
+  126  echo senac01.txt
+  127  ls
+  128  echo -p senac01.txt
+  129  ls
+  130  history
+  131  echo senac.txt
+  132  ls
+  133  >
+  134  >echo
+  135  >echo senac.txt
+  136  cd h
+  137  ls -l
+  138  echo >senac 01.txt
+  139  ls
+  140  >>
+  141  >abc.txt
+  142  echo > senac01.txt
+  143  ls
+  144  cat -n /etc/services
+  145  ls -l
+  146  head -n 20 /etc/services
+  147  tail -n 20 /etc/services
+  148  rdmir /teste01
+  149  ls -l
+  150  cd tatuape/
+  151  ls
+  152  teste01
+  153  rmdir -p /teste01/teste01/teste01
+  154  rmdir -p teste01/teste01/teste01
+  155  cd tatuape/01
+  156  cd tatuape/teste01
+  157  cd tatuape/02
+  158  rmdir -p teste01/teste02/teste03
+  159  ls
+  160  history
+senac@mint-poliana:~/tatuape$ 
+
