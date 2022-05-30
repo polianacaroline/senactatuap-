@@ -1,2 +1,2 @@
 # senactatuape
-##Repositorio das aulas de tecnico em informatica do SENAC Tatuapé
+Repositorio das aulas de tecnico em informatica do SENAC Tatuapé
