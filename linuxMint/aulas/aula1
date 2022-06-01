@@ -75,6 +75,41 @@ CRIAÇÃO DE VARIOS ARQUIVOS, TOUCH
 IEJIE.TXT.... 
 COMANDO -P DIRETORIO NAO CRIADO
 MKDIR -P -V OU OS -PV
+--------------------------------------AULA 6
+---clonar seu projeto
+repositorio, copiar, clonar no terminal
+novo repositorio no git hub 
+ -[ ] transforma em uma linguagem de programação, UM CHECK DE TOPICO.tutorial kanban
+  git config --global user.name "poliana caroline lopes de souza"
+  #titulo
+  ## subtitulo
+  https://shields.io/category/license (selo no github)
+https://html5css3.com.br/
+clonando repositorio
+comandos basicos: clearn-> apagar a tela
+pwd -> exibir o diretorio atualizado
+git clone, clona para seus arquivos
+arrastar para upload do git
+link no github-https://www.iconfinder.com/search?q=github
+HD- DE FORA PARA DENTRO
+TRILHA 0- MBR, GPT, PARTES DO HD,TODAS AS INFORMAÇOES
+PARTIÇÃO EM  PARTES= 1PRIMARIA- CRIAR NO MAXIMO 4, 2-EXTENDIDA APENAS UMA,3-LOGICA ATE 256, MAXIMO 18
+OBRIGATORIAMENTE PRIMARIA
+DEIXAR SEPARADAOS
+COLOCANDO HD NO LINUX
+1-CRIAR NOVO DISCO, CONTROLADOR SATA, 10gb
+mudar o linux para arquivo 
+apos adicionar, acessar computador
+inicializar o sistema, pesquisar disco,
+como preparar, grenagem, formatar, escrever o nome do que da
+usar todos, clicar em formatar
+lsb= e um bit, menor valor em um numero binario bits
+ext4- sistema de arquivos
+kermel- programas de execuçao para programaçoes que se reside na memoria
+ e instrui  CPU
+FHS E UM DOCUMENTO PARA OS PRINCIPAIS
+ SISTEMAS DE DOCUMENTAÇOES
+
 
 
 
