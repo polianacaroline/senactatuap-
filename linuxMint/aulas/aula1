@@ -109,6 +109,22 @@ kermel- programas de execuçao para programaçoes que se reside na memoria
  e instrui  CPU
 FHS E UM DOCUMENTO PARA OS PRINCIPAIS
  SISTEMAS DE DOCUMENTAÇOES
+ executar o apliativo instalado- gparted q e um 
+ gerenciador de arquivos
+ partiçao com chave n entra, pq esta bloqueada
+  mudar para o hd30
+alocado= virgem, nao usado
+0= inicializar o disco, dispositivo, criar 
+tabela de partiçoes, mais de duas telas
+gpt. para dividir mouse direito, criar novas 
+partiçoes, tamanho de 15gb, sistema
+ de arquivo, nao formatada
+ fazer novamente so nao formatada
+ reboot grenagem, editar opçoes de montagem, identificar como:
+ label
+
+ 
+ 
 
 
 
