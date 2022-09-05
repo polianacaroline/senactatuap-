@@ -1,0 +1,63 @@
+horario de funcionamento: segunda a sexta das: 07:00 ate as 23:00
+15 desktop para admistração
+1 no caixa( pode ser simples, pois n vai ultilizar mt)
+4 deskop para os professores
+4 computadores notebook para os diretores
+TOTAL SAO 32 COMPUTADORES ATIVOS
+TODOS OS COMPUTADORES COM LICENCIAMENTO MICROSOFT WINDONS 10, PACOTE OFFICE 365
+ANTIVIRUS E ANTIMALWARE
+Omie ERP é um sistema de gestão integrado com capacidade de atender qualquer tamanho de empresa
+Processador Intel/AMD a 1.5 GHz.
+
+backup=100
+ANTIVIRUS, kaspersky=3360
+manutenção-100
+formatação=100
+HORA TECNICA= 100
+configuração= 50
+pacote office80.24=1920
+LICENSAS DO WINDOWS= 920.24
+
+
+IMPRESSORAS 
+Impressora Laser Mono HP Neverstop 1000a, 110V, USB R$ 1.247,00
+Impressora Multifuncional 3x1 Com Impressão Sem Cartuchos Conexão Wi-Fi L3250 C11CJ67303 Epson R$ 1.385,00
+
+2,850 por computador
+4,500 por notebook
+
+Computador Completo Intel Core i5 8GB ssd 240GB Windows 10 Wifi Monitor 19.5 LED hdmi EasyPC Desktop R$ 1.979,99
+1,979,99.15=29.685
+
+1 computador simples no caixa---Computador Completo Intel Core i3 4GB ssd 120GB Monitor LED 19.5 hdmi EasyPC Go R$ 1.295,10
+
+Computador Completo Intel Core i5 8GB ssd 128GB Monitor LED Hdmi Strong Tech R$ 1.589,00
+1,589,00.4=6.356
+
+Notebook Acer Aspire 5 Intel Core i5-10210U 8GB 256GB SSD W11 15,6” FHD IPS Prata A515-54-57CS R$ 3.149,00
+3,149.4=12.596
+
+pacote office80.24=1920
+
+HORAS TRABALHADAS
+-------5 dias sao 45-------07as18
+HORA TECNICA 4,500
+configuração 50
+valor da mao de obra=9.000
+VALOR TOTAL=92.317
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
