@@ -1,0 +1,12 @@
+configurar os pontos de rede
+ponto de rede 02*
+CISCO-COMANDOS
+SWITCHES3560
+router2620
+2 router2911
+desktop
+cabo console (azul)RS 232 ponta serial, conectar
+ dps ir ate o witches (console)
+configurar swiches no desktop, ir ate o terminal
+pegar o cabo e leva ate o router, ligando
+puTTY(serial)
