@@ -64,6 +64,10 @@ SICRONISMO DE LOGS
  P/SALVAR
  *copy running-config startup-cnfig*
  
+ sh run config/mostra tudo que digitou
+ 
+ 
+ 
  
 
 
