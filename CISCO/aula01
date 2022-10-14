@@ -12,28 +12,60 @@ pegar o cabo e leva ate o router, ligando
 puTTY(serial)
 VISUAL STUDIO---
 *CTRL N*-CRIA NOVO ARQUIVO
+
 MODO EXEC PRIVILIAGIADO/USUARIO (COMANDO *ENABLE*)
 DUVIDAS *TAB*(PRESSIONAR)
+
 CONFIGURAR DATA E HORA/CLOCK SET 1/14:30:00 14 OCTOBER OU OCT 2022 "CLOCK SET 14:30:00 OCTOBER 2022
+
 -MODO DE CONFIGURAÇÃO GLOBAL- conf t
 *CONFIGURE TERMINAL*
+
 ALTERAR O NOME SWITCH
 *HOSTNAME sw-g01*
+
 habilitar o serviço de criptografia 
 service* password-encryption*
+
 HABILITAR SERVIÇO  MARCAÇÃO DE DATA/HORA
 *service timestaps log datetime msec*
+
 HABILITAR SEGURANÇA DE ACESSO
 *login block-for 120 attempts 4 within 60*
+
 DESABILITAR O RECURSOS DE TRADUÇÃO DE NOMES
 *no ip domain-lookup*/ erro translation
+
 DESAFIO- PROCURAR NA INTERNET IMAGENS DO TIPO QUE SE CHAMA ASCII ART PARA CISCO
+
 configurar o banner da mensagem do dia
 *banner motd #switch do grupo-01#*
+
 HABILITAR A SEGURANÇA DO ENABLE/SENHA
 *enable secret 123@senac*
+
 criar os usuarios locais
 *username poliana secret 1232senac*
+
+CONFIGURAR A PORTA CONSOLE
+*line console 0*
+
+HABILITAR AUTETENTCAÇÃO LOCAL
+*login local*
+
+SICRONISMO DE LOGS
+*logging synchronous*
+
+ HABILITAR SEGURANÇA DE TEMPO 
+ *exec-timeout 5 30*
+ 
+ END/CTRL C SAIR DE TODOS AS CONFIGURAÇOES
+ 
+ P/SALVAR
+ *copy running-config startup-cnfig*
+ 
+ 
+
 
 
 
