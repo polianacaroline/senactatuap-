@@ -1,0 +1,35 @@
+!MODO EXEC PRIVILEGIADO
+*enable*
+!MODO DE CONFIGURAÇÃO GLOBAL
+*conf t /configure terminal*
+CONFIGURAÇÃO DAS LINES /LINHAS VISUAIS /ATE 5PESSOAS
+*line vty 0 4*
+!HABILITAR O LOGIN LOCAL /SENHAS
+*login local* 
+!SICRONISMO DOS LOGS /COMANDO N ATRAPALHA
+*loging synchronous*
+!HABILITAR O TEMPO DE INATIVIDADE 
+*exec-timeout 5 30*
+!HABILITAR O PROTOCOLO DE ACESSO /
+*transport input ssh* 
+!SAIR DE TODOS OS MODOS
+*end*
+!SALVAR AS CONFIG
+*write/ou copy running-config starup-config*
+
+
+
+SWITCH
+*ena
+*configure terminal
+CONFIGURAR O SSH/ CONFIGRAÇÃO DO DOMINIO
+ip domain-name cisco.com
+CRIAR A CHAVE PUBLICA E PRIVADA DO SSH
+*crypto key generate rsa usage-keys modulus 1024*
+aparecer ssh 1.99 usar a chave
+HABILITAR A VERSAO 2 DO SSH
+*ip ssh vesion 2*
+
+
+
+
